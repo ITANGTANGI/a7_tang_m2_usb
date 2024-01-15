@@ -9,6 +9,9 @@ FT601Q FIFO to USB3.0 5 Gbps Transfer.
 1 Power OK LED;
 2 FPGA Load done LED;
 6 User LED with 3 types of color.
+# 📝EXAMPLEs
+## pcileech standard
+## riffa data loopback
 # 📷Images
 ## Top View
 ![Top_View](./IMAGES/DSC04901.JPG)
