@@ -11,11 +11,11 @@ FT601Q FIFO to USB3.0 5Gbps Transfer.
 6 User LED with 3 types of color.
 # 📷Images
 ## Top View
-![Top_View](.\IMAGES\DSC04901.JPG)
+![Top_View](./IMAGES/DSC04901.JPG)
 ## Side View
-![Side_View](.\IMAGES\DSC04901.JPG)
+![Side_View](./IMAGES/DSC04902.JPG)
 ## Bottom View
-![Bottom_View](.\IMAGES\DSC04901.JPG)
+![Bottom_View](./IMAGES/DSC04903.JPG)
 # 📜License
 GPL 3.0
 
