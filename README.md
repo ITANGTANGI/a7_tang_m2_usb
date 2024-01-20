@@ -11,7 +11,9 @@ FT601Q FIFO to USB3.0 5 Gbps Transfer.
 6 User LED with 3 types of color.
 # 📝EXAMPLEs
 ## pcileech standard
+Attached to the https://github.com/ufrisk/pcileech
 ## riffa data loopback
+Attached to the https://github.com/KastnerRG/riffa
 # 📷Images
 ## Top View
 ![Top_View](./IMAGES/DSC04901.JPG)
